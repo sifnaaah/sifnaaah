@@ -122,7 +122,7 @@ Responsive and user-friendly web applications using modern technologies.
 
 "Learning, Building, and Growing One Project at a Time."
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blue&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=sifnaaah&label=Profile%20Views&color=blue&style=for-the-badge)
 
 </div>
 
