@@ -24,8 +24,6 @@
 
 🎯 Goal: Become a skilled AI/ML Engineer and contribute to impactful projects
 
-⚡ Fun Fact: I enjoy solving real-world problems using technology
-
 ---
 
 ## 🌐 Connect With Me
